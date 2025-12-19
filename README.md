@@ -1,2 +1,2 @@
 # hotspot-finder
-Code for cross-matching multifrequency synchrotron emission in high-energy extragalactic jets using Euclid and LOFAR with OpenCV. Coming soon!
+Code for cross-matching multifrequency synchrotron emission in high-energy extragalactic jets using Euclid and LOFAR with Kangas and OpenCV. Coming soon!
